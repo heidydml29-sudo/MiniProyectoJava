@@ -9,7 +9,6 @@
     private String nombre;
     private int edad;
     private String estado;
-
     public Animal(int id, String nombre, int edad, String estado) {
         this.id = id;
         this.nombre = nombre;
