@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+
 public class Refugio {
 
     private ArrayList<Animal> animales;
